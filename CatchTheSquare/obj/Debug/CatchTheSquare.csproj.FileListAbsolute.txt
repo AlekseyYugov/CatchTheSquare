@@ -1,0 +1,13 @@
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\CatchTheSquare.exe.config
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\CatchTheSquare.exe
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\CatchTheSquare.pdb
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\sfml-audio.dll
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\sfml-graphics.dll
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\sfml-system.dll
+D:\Project_C#\CatchTheSquare\CatchTheSquare\bin\Debug\sfml-window.dll
+D:\Project_C#\CatchTheSquare\CatchTheSquare\obj\Debug\CatchTheSquare.csproj.AssemblyReference.cache
+D:\Project_C#\CatchTheSquare\CatchTheSquare\obj\Debug\CatchTheSquare.csproj.SuggestedBindingRedirects.cache
+D:\Project_C#\CatchTheSquare\CatchTheSquare\obj\Debug\CatchTheSquare.csproj.CoreCompileInputs.cache
+D:\Project_C#\CatchTheSquare\CatchTheSquare\obj\Debug\CatchTheSquare.csproj.CopyComplete
+D:\Project_C#\CatchTheSquare\CatchTheSquare\obj\Debug\CatchTheSquare.exe
+D:\Project_C#\CatchTheSquare\CatchTheSquare\obj\Debug\CatchTheSquare.pdb
